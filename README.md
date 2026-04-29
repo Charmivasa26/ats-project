@@ -1,4 +1,4 @@
-# ATS — Mekanism Technologies
+# ATS 
 ## Internal Applicant Tracking System
 
 A full-stack ATS (Applicant Tracking System) built with React, Node.js (Express), and MongoDB. Supports role-based authentication, candidate pipeline management, interview scheduling, and a live dashboard.
